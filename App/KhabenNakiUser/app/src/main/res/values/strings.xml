@@ -1,3 +1,10 @@
 <resources>
+
     <string name="app_name">Khaben Naki User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- logIn signIn fragments tag -->
+    <string name="WELCOME_FRAGMENT">WELCOME_FRAGMENT</string>
+
 </resources>

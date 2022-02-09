@@ -1,8 +1,9 @@
-package com.premiernoobs.khabennakiuser;
+package com.premiernoobs.khabennakiuser.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+
+import com.premiernoobs.khabennakiuser.R;
 
 public class MainActivity extends AppCompatActivity {
 
